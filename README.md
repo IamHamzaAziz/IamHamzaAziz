@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer, Data Scientist and Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data science and analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding</p>
+<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer and a Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding</p>
 
 ###
 
@@ -30,16 +30,12 @@
 
 ###
 
-<h3 align="left">Data Science / Data Analysis</h3>
+<h3 align="left">Data Analysis</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
