@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer and a Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding</p>
+<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer and a Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding!</p>
 
 ###
 
