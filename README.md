@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer and a Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding!</p>
+<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer and a Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding</p>
 
 ###
 
@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
