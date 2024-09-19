@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Hamza Aziz</h1>
+<h2 align="center">Hi, I'm Hamza Aziz</h2>
 
 ###
 
-<p align="left">Welcome to my GitHub Profile.<br><br>I'm a Full Stack Web Developer and a Data Analyst.<br><br>With a strong foundation in both frontend and backend technologies, I love creating seamless and efficient web applications.<br>Moreover, my expertise in data analysis allows me to turn complex data into actionable insights, driving better decision-making and innovation.<br><br>Check out my repositories to see my latest projects and other codes. Let's connect and build something amazing together.<br><br>Happy Coding</p>
+<p align="center">Welcome to my GitHub Profile.<br><br>I'm a dedicated Full Stack Web Developer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by leveraging modern web development frameworks and tools.<br><br>Moreover, I'm also a Data Analyst who is skilled at transforming raw data into valuable insights. I utilize Python, SQL, Power BI and Excel to extract meaningful trends and patterns. My goal is to help make informed decisions based on data-driven analysis.<br><br>Check out my repositories and let's connect so that we can start build something amazing together.<br><br>Happy Coding : )</p>
 
 ###
 
-<h2 align="left">Key Technologies</h2>
+<h2 align="center">Key Technologies</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -32,11 +32,11 @@
 
 ###
 
-<h2 align="left">Reach Me Out</h2>
+<h2 align="center">Reach Me Out</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/iamhamzaaziz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit%20my%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
