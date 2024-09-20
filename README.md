@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub Profile.<br><br>I'm a dedicated Full Stack Web Developer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by leveraging modern web development frameworks and tools.<br><br>Moreover, I'm also a Data Analyst who is skilled at transforming raw data into valuable insights. I utilize Python, SQL, Power BI and Excel to extract meaningful trends and patterns. My goal is to help make informed decisions based on data-driven analysis.<br><br>Check out my repositories and let's connect so that we can start build something amazing together.<br><br>Happy Coding : )</p>
+<p align="center">Welcome to my GitHub Profile.<br><br>I'm a dedicated Full Stack Web Developer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by leveraging modern web development frameworks and tools.<br><br>Moreover, I'm also a Data Analyst who is skilled at transforming raw data into valuable insights. I utilize Python, SQL, Power BI and Excel to extract meaningful trends and patterns. My goal is to help make informed decisions based on data-driven analysis.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
 
 ###
 
