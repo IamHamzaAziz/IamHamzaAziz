@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub Profile.<br><br>I'm a dedicated Full Stack Web Developer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by leveraging modern web development frameworks and tools.<br><br>Moreover, I'm also a Data Analyst who is skilled at transforming raw data into valuable insights. I utilize Python, SQL, Power BI and Excel to extract meaningful trends and patterns. My goal is to help make informed decisions based on data-driven analysis.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
+<p align="center">Welcome to my GitHub Profile.<br><br>I'm a dedicated Full Stack Web Developer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
 
 ###
 
@@ -19,13 +19,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
