@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub Profile.<br><br>I'm a dedicated Full Stack Web Developer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
+<p align="center">Welcome to my GitHub Profile.<br><br>I'm a Software Engineer who has strong foundations in various web development technologies. I develop efficient web applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
 
 ###
 
