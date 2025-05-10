@@ -1,16 +1,16 @@
-<h2 align="center">Hi, I am Hamza Aziz</h2>
+<h2 align="left">Hi, I am Hamza Aziz</h2>
 
 ###
 
-<p align="center">I'm a Software Engineer who has strong foundations in various web development technologies. I develop efficient applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
+<p align="left">I'm a Software Engineer who has strong foundations in various web development technologies. I develop efficient applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
 
 ###
 
-<h2 align="center">Key Technologies</h2>
+<h2 align="left">Key Technologies</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -32,11 +32,11 @@
 
 ###
 
-<h2 align="center">Reach Me Out</h2>
+<h2 align="left">Reach Me Out</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/iamhamzaaziz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit%20my%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
