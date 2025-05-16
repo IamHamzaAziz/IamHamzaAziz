@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm a Software Engineer who has strong foundations in various web development technologies. I develop efficient applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
+<p align="left">I'm a Software Engineer with a strong foundation in various software development technologies. I specialize in building robust backends and intuitive frontends using modern frameworks and tools.
+<br>My goal is to develop efficient and user-friendly applications that solve real world problems. I believe in continuous learning and exploring new technologies.<br><br>Feel free to explore my repositories, and let's connect to build something amazing together.
+<br><br>Happy Coding!</p>
 
 ###
 
