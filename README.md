@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer who has strong foundations in various web development technologies. I develop efficient applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Happy Coding : )</p>
+<p align="left">A Software Engineer with over 1 year experience developing efficient applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various web development frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Visit my website at <a href="https://hamzaaziz.me" target="_blank">hamzaaziz.me</a><br><br>Happy Coding : )</p>
 
 ###
 
@@ -35,12 +35,8 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/iamhamzaaziz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Visit%20my%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:hamza@hamzaaziz.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email%20Me&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
+  LinkedIn: <a href="https://linkedin.com/in/iamhamzaaziz" target="_blank">linkedin.com/in/iamhamzaaziz</a><br>
+  Email: <a href="mailto:hamza@hamzaaziz.me">hamza@hamzaaziz.me</a>
 </div>
 
 ###
