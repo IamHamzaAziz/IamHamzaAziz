@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Software Engineer with over 1 year experience, developing efficient applications that meet user needs. My skills include building robust backends and designing intuitive frontends by utilizing various frameworks and tools.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Visit my website at <a href="https://hamzaaziz.me" target="_blank">hamzaaziz.me</a><br><br>Happy Coding : )</p>
+<p align="left">A Software Engineer with over 1 year experience, developing efficient applications that meet user needs. I build reliable backend systems and intuitive frontends using modern tools and frameworks.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Visit my website at <a href="https://hamzaaziz.me" target="_blank">hamzaaziz.me</a><br><br>Happy Coding : )</p>
 
 ###
 
