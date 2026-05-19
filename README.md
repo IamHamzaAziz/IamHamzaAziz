@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A Software Engineer with over 1 year experience, developing efficient applications that meet user needs. I build reliable backend systems and intuitive frontends using modern tools and frameworks.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Visit my website at <a href="https://hamzaaziz.me" target="_blank">hamzaaziz.me</a>
+<p align="left">A Software Engineer with 1.5+ years of experience, developing efficient applications that meet user needs. I build reliable backend systems and intuitive frontends using modern tools and frameworks.<br><br>Check out my repositories and let's connect so that we can start building something amazing together.<br><br>Visit my website at <a href="https://hamzaaziz.me" target="_blank">hamzaaziz.me</a>
 
 ###
 
